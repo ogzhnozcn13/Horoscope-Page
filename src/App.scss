@@ -1,0 +1,18 @@
+@import "./scss/reset";
+@import "./scss/mixins";
+@import "./scss/variables";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Yatra+One&family=Yusei+Magic&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Almendra&family=Gloria+Hallelujah&family=Yatra+One&family=Yusei+Magic&display=swap');
+
+
+body{
+    font-family: 'Yatra One', cursive;
+    background-attachment: fixed;
+}
+
+p{
+    font-family: 'Almendra', serif;
+}
